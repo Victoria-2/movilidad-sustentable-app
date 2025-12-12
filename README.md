@@ -3,6 +3,10 @@
 Aplicación Flutter orientada a promover **hábitos de movilidad sustentable** en entornos urbanos impactados por actividades industriales y de alto tráfico.  
 El proyecto forma parte de un **trabajo final integrador**, donde se diseña e implementa una solución tecnológica estilo **startup eco-tech**, centrada en la mejora de la calidad de vida y la reducción del impacto ambiental.
 
+Realizado por:
+- Maria Victoria Ruiz.
+- Valentina Abarzua.
+
 ---
 
 ## 🚴‍♂️🌍 Descripción general
