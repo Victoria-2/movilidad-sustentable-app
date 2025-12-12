@@ -55,7 +55,4 @@ El objetivo principal es **fomentar patrones de movilidad activa**, como caminar
 - **Flutter Web** para deploy
 - **GitHub Pages** como hosting estático
 
----
-
-## 🧩 Estructura del proyecto
 
