@@ -1,16 +1,62 @@
-# movilidad_sustentable_mockup
+# 🌱 Movilidad Sustentable — Proyecto Final
 
-A new Flutter project.
+Aplicación Flutter orientada a promover **hábitos de movilidad sustentable** en entornos urbanos impactados por actividades industriales y de alto tráfico.  
+El proyecto forma parte de un **trabajo final integrador**, donde se diseña e implementa una solución tecnológica estilo **startup eco-tech**, centrada en la mejora de la calidad de vida y la reducción del impacto ambiental.
 
-## Getting Started
+Realizado por:
+- Maria Victoria Ruiz.
+- Valentina Abarzua.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚴‍♂️🌍 Descripción general
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+La aplicación permite a los usuarios:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Registrar puntos personalizados en la ciudad.
+- Guardar rutas o ubicaciones de uso frecuente.
+- Acumular puntos por actividades sustentables.
+- Canjear recompensas en comercios adheridos.
+- Visualizar beneficios, descuentos y promociones ecológicas.
+- Acceder a una experiencia simple, moderna, intuitiva y modular.
+
+El objetivo principal es **fomentar patrones de movilidad activa**, como caminar, usar bicicleta o transporte público, mediante un sistema de motivación basado en **recompensas y gamificación**.
+
+---
+
+## ✨ Funcionalidades principales
+
+### 🗺️ Gestión de puntos y rutas
+- Crear puntos personalizados (hogar, trabajo, lugares frecuentes).
+- Guardar puntos favoritos.
+- Edición y eliminación interactiva.
+- Animaciones fluidas con `AnimatedList`.
+
+### 🎁 Sistema de recompensas
+- Catálogo de beneficios con imagen, descripción y costo en puntos.
+- Filtros visuales mediante **chips con iconos**.
+- Modal detallado con generación de códigos de canje.
+- Interacción con comercios aliados.
+
+### 🏆 Gamificación
+- Acumulación de puntos del usuario.
+- Sistema de canje.
+- Feedback visual inmediato y notificaciones.
+
+### 🖥️ Interfaz moderna
+- Diseño limpio, intuitivo y modular.
+- Cards dinámicas.
+- Diálogos personalizados.
+- Estilo eco-tech pensado para impacto visual en presentaciones.
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- **Flutter 3.x**
+- **Dart**
+- **Material Design**
+- **Flutter Web** para deploy
+- **GitHub Pages** como hosting estático
+
+
