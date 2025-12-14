@@ -7,6 +7,8 @@ Realizado por:
 - Maria Victoria Ruiz.
 - Valentina Abarzua.
 
+Página del proyecto: [https://testeo75.wordpress.com/]([url](https://testeo75.wordpress.com/))
+
 ---
 
 ## 🚴‍♂️🌍 Descripción general
